@@ -1,0 +1,29 @@
+________________________________________
+Compte Rendu de Cours
+Matière :
+[Titre de la matière]
+Date du cours :
+[Date]
+________________________________________
+Objectifs du Cours :
+•	[Objectif 1]
+•	[Objectif 2]
+•	[Objectif 3]
+________________________________________
+Résumé du Cours :
+Le cours a porté sur [sujet principal du cours]. Nous avons abordé les points suivants :
+1.	Introduction au sujet :
+    o	[Résumé des premières notions expliquées]
+2.	Explication des concepts clés :
+    o	[Concept clé 1]
+    o	[Concept clé 2]
+3.	Démonstration / Applications pratiques :
+    o	[Détails des démonstrations ou des exemples pratiques]
+________________________________________
+Points importants à retenir :
+•	[Point important 1]
+•	[Point important 2]
+•	[Point important 3]
+________________________________________
+Remarques supplémentaires :
+•	[Observations générales ou remarques spécifiques sur la session]
