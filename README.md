@@ -86,7 +86,7 @@ Ce dépôt fournit un guide complet pour installer et configurer une Raspberry P
 ### 1. Configurer une IP statique methode 2
 
   ```
-  sudo ifconfig eth0 192.168.1.100 255.255.255.0
+  sudo ifconfig eth0 192.168.1.100/24
   ```
 
 ### 2. Connexion via SSH
