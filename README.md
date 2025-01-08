@@ -66,7 +66,7 @@ Ce dépôt fournit un guide complet pour installer et configurer une Raspberry P
 
 ## Configuration réseau
 
-### 1. Configurer une IP statique
+### 1. Configurer une IP statique methode 1
 
 - Modifiez le fichier de configuration :
   ```
@@ -83,7 +83,11 @@ Ce dépôt fournit un guide complet pour installer et configurer une Raspberry P
   ```
   sudo systemctl restart networking.service
   ```
+### 1. Configurer une IP statique methode 2
 
+  ```
+  sudo ifconfig eth0 192.168.1.100 255.255.255.0
+  ```
 
 ### 2. Connexion via SSH
 
