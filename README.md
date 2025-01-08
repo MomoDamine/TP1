@@ -81,7 +81,7 @@ Ce dépôt fournit un guide complet pour installer et configurer une Raspberry P
   ```
 - Redémarrez le service :
   ```
-  sudo systemctl restart dhcpcd
+  sudo systemctl restart networking.service
   ```
 
 
